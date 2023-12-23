@@ -1,3 +1,8 @@
-<p align="center">
-<img align="center" width="400" height="60" src="https://readme-typing-svg.herokuapp.comduration=4500&height=65&lines=Hello%F0%9F%91%8B%2C+I'm+Mohamed+Abdo;A+passionate+Mobile+developer">
-</p>
+<h2>Hi, I'm Mohammed Abdo!</h2>
+<p><em>Study at FCAI in <a href="https://kfs.edu.eg/engkfs/"> Kafr-Elsheikh University </a>
+<p> 
+Motivated and results-driven AI Student seeking a challenging position within a large 
+organization as a <b>Computer Vision Engineer</b>. Offering a strong foundation in data analysis, Machine 
+Learning, Deep Learning, and project management, with a proven ability to drive efficiency, deliver 
+successful outcomes and collaborate within cross-functional teams. </p>
+
