@@ -12,6 +12,6 @@ successful outcomes, and collaborate within cross-functional teams. </p>
 
 <h5 align="left">Languages and Tools:</h5>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,c,cpp,docker,mongodb,sql"/>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,c,cpp,docker,mongodb,mysql"/>
   </a>
 
