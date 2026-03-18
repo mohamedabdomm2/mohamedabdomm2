@@ -1,5 +1,5 @@
 <h2>Hi, I'm Muhammed Abdo 😄 !</h2>
-<p><em>Studies at FCAI in <a href="https://kfs.edu.eg/engkfs/"> Kafr-Elsheikh University </a>
+<p><em>Graduate from FCAI in <a href="https://kfs.edu.eg/engkfs/"> Kafr-Elsheikh University </a>
 <p> 
 Motivated and results-driven AI Student seeking a challenging position within a large 
 organization as a <b>Data Scientist</b>. Offering a strong foundation in data analysis, Machine 
@@ -12,6 +12,6 @@ successful outcomes, and collaborate within cross-functional teams. </p>
 
 <h5 align="left">Languages and Tools:</h5>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,c,cpp,java,"/>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,c,cpp,docker,mongodb,sql"/>
   </a>
 
