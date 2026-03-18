@@ -10,7 +10,7 @@ successful outcomes, and collaborate within cross-functional teams. </p>
   <img src="https://streak-stats.demolab.com?user=mohamedabdomm2" alt="GitHub Streak" />
 </a>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h5 align="left">Languages and Tools:</h5> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<p> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Languages and Tools:**</p>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,c,cpp,docker,mongodb,mysql"/>
   </a>
